@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pratikautee.github.io/quicknotes/static/css/main.05eb492b.css",
-    "main.js": "/pratikautee.github.io/quicknotes/static/js/main.bf1e83f2.js",
-    "index.html": "/pratikautee.github.io/quicknotes/index.html",
-    "main.05eb492b.css.map": "/pratikautee.github.io/quicknotes/static/css/main.05eb492b.css.map",
-    "main.bf1e83f2.js.map": "/pratikautee.github.io/quicknotes/static/js/main.bf1e83f2.js.map"
+    "main.css": "/quicknotes/static/css/main.05eb492b.css",
+    "main.js": "/quicknotes/static/js/main.bf1e83f2.js",
+    "index.html": "/quicknotes/index.html",
+    "main.05eb492b.css.map": "/quicknotes/static/css/main.05eb492b.css.map",
+    "main.bf1e83f2.js.map": "/quicknotes/static/js/main.bf1e83f2.js.map"
   },
   "entrypoints": [
     "static/css/main.05eb492b.css",
