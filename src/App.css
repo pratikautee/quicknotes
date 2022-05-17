@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.maincontainer{
+ padding: 1em 2em;
+}
+
+img {
+  max-width: 90%;
+}
+
+#main-nav, #footer{
+  background-color: #353848;
+}
+
+#nav-title{
+  font-family: 'Permanent Marker', cursive;
+  margin: 0 auto;
+}
+
+
+.files{
+  max-height: 90vh;
+  background-color: beige;
+}
+
+#download{
+  background-color: white
+}
+
+textarea{
+  border: none;
+  max-height: 90vh;
+  overflow: auto;
+}
+
+.plaintext > textarea {
+  font-family: Courier, monospace;
+  font-size: smaller;
+}
+.plaintext textarea:focus{
+  border-color: black;
+  box-shadow: none;
+}
+
+pre{
+  background-color: rgb(230, 230, 230);
+  max-width: fit-content;
+  overflow: auto;
+  border : 1px solid rgb(166, 162, 162);
+  padding: 2em;
+}
+
+section > h2 {
+  display: none;
+}
+
+section {
+  font-size: smaller;
+  font-style: italic;
+}
+
+table, tbody, td, th{
+  background-color: whitesmoke;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 2px !important;
+  
+}
+
+table{
+  margin: 1em auto;
+}
+
+.parsed{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1em 2em;
+  max-height: 90vh;
+  overflow: auto;
+  border: 0.9px solid black;
+}
+
+
+td{
+  padding: 0.2em 1em;
+}
